@@ -16,7 +16,7 @@ const apps = [
             "screenshots/mcc/8.jpg"
         ],
         description: "Challenge your mind with vibrant colors and engaging gameplay. Test your reflexes and color matching skills in this addictive puzzle game. A fun experience for all ages!",
-        link: "https://github.com/toufikforyou/mind-color-challenge-game/releases/latest/download/app-release-signed.apk",
+        link: "https://github.com/toufikforyou/mind-color-challenge/releases/latest/download/app-release-signed.apk",
         downloads: "10K+",
         ageRating: "Everyone",
         developer: "MH TOUFIK",
